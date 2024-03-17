@@ -9,6 +9,12 @@ are permitted in any medium without royalty provided the copyright
 notice and this notice are preserved.  This file is offered as-is,
 without warranty of any kind.
 
+Build
+==================
+autoreconf --install
+sudo apt install -y libfuse-dev
+./configure
+
 Basic Installation
 ==================
 
